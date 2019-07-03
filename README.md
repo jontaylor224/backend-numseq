@@ -53,6 +53,7 @@ for i in range(10):
 ```
 
 #### Expected Output
+```
 Geometric numbers (square, triangle, cube)
 0: 0 0 0
 1: 1 1 1
@@ -64,7 +65,7 @@ Geometric numbers (square, triangle, cube)
 7: 49 28 343
 8: 64 36 512
 9: 81 45 729
-
+```
 ### Prime numbers
 Finally, create a module named prime within the numseq package. Define the following functions:
 
@@ -82,6 +83,7 @@ print ("Is 999981 prime? {}".format(is_prime(999981)))
 print ("Is 999983 prime? {}".format(is_prime(999983)))
 ```
 #### Expected Output
+```
 Primes
 937
 941
@@ -95,3 +97,4 @@ Primes
 997
 Is 999981 prime? False
 Is 999983 prime? True
+```
